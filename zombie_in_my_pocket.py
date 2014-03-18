@@ -3,7 +3,6 @@
 # Purpose:
 #bklbkkbkbkjbjk.
 # Author:      kpm72
-# im not actyually lame
 # Created:     04/03/2014
 # Copyright:   (c) kpm72 2014
 # Licence:     <your licence>
