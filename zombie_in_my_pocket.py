@@ -1,7 +1,6 @@
 #-------------------------------------------------------------------------------------------------
 # Name:        module1
 # Purpose:
-#bklbkkbkbkjbjk.
 # Author:      kpm72
 # im not actyually lame
 # Created:     04/03/2014
